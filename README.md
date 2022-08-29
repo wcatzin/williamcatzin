@@ -1,5 +1,5 @@
 ### Hi. I'm William👋
-<img src="/path/to/william-and-baxter.jpg" alt="Alt text" title="Optional title">
+![](images/)
 
 <!--
 **williamcatzin/williamcatzin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
